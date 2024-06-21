@@ -1,0 +1,38 @@
+{
+  "name": "vuedev",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@formkit/addons": "^1.6.3",
+    "@formkit/core": "^1.6.3",
+    "@formkit/i18n": "^1.6.3",
+    "@formkit/icons": "^1.6.3",
+    "@formkit/pro": "^0.126.3",
+    "@formkit/themes": "^1.6.3",
+    "@formkit/vue": "^1.6.3",
+    "axios": "^1.7.2",
+    "element-plus": "^2.7.4",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "ng-devui": "^17.1.0",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persist": "^1.0.0",
+    "vue": "^3.4.21",
+    "vue-clipboard3": "^2.0.0",
+    "vue-router": "^4.3.0",
+    "vue-toastification": "^2.0.0-rc.5",
+    "vxe-table": "^4.6.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.8",
+    "vite-plugin-vue-devtools": "^7.0.25"
+  }
+}
